@@ -4,7 +4,7 @@ SUPERVISED MACHINE LEARNING
 
 The following techniques will be used in this notebook-
 
-Logistic Regression
+Logistic Regression <br>
 K nearest neighbors
 Support Vector Machines
 Decision Trees
